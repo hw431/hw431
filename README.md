@@ -2,6 +2,8 @@
     <samp>Hi there! 👋 I'm Hwael.</samp>
 </h4>
 
+[![Moe-counter](https://count.getloli.com/get/@github.hw431.readme?theme=rule34)](https://count.getloli.com/)
+
 [![Telegram](https://img.shields.io/badge/Telegram-@hw431-28A8E9?style=flat-square&logo=Telegram)](https://t.me/hw431)
 [![Gitlab](https://img.shields.io/badge/Gitlab-@hw431-E24329?style=flat-square&logo=Gitlab)](https://gitlab.com/hw431)
 
